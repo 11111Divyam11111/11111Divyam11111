@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyam Raj Pandey</h1>
-<h3 align="center">An enthusiastic Web Developer. Pre-final year student at NIT Jaipur.</h3>
+<h3 align="center">An enthusiastic Programmer. final year student at NIT Jaipur.</h3>
 
-- 🌱 I’m currently learning **Cloud & Containerization**
+- 🌱 I’m currently learning **Game Development with C++**
 
 - 📫 How to reach me **divyamrajpandey220@gmail.com**
 
